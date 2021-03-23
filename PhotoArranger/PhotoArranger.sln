@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PhotoArranger", "PhotoArranger\PhotoArranger.pyproj", "{B7A91D88-4D28-4DD4-8923-09DCD7B2911B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A91D88-4D28-4DD4-8923-09DCD7B2911B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A91D88-4D28-4DD4-8923-09DCD7B2911B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F748F4B-E528-46F9-8520-78404FCF9C2E}
+	EndGlobalSection
+EndGlobal
